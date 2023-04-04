@@ -2,7 +2,7 @@ import React from 'react'
 
 const File1 = () => {
   return (
-    <div>HELLO !</div>
+    <div>HELLO nejhd!</div>
   )
 }
 
